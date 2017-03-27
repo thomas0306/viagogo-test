@@ -1,8 +1,7 @@
 # 0. Program environment
-Python version: 2.7
-Library dependencies:
-- numpy
-- pandas
+- Python version: 2.7
+- Library dependencies:
+numpy, pandas
 
 # 1. Config the generator
 ```python
