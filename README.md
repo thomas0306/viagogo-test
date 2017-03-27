@@ -55,12 +55,12 @@ GENERATE_CONF = {
 ```
 
 # 2. To generate dataset
-```python
+```sh
 python generate_event.py
 ```
 
 # 3. To run the query program
-```python
+```sh
 python query_event.py
 ```
 
